@@ -1,0 +1,17 @@
+body {
+  
+   background-image: url(record.png);
+   margin: 0;
+}
+header {
+    color:#ffff80;
+    background-color: rgb(53, 53, 74); 
+    text-align:center;
+}
+
+main {
+    background-color:#b6b7c4;
+    padding: 1em;
+    
+}
+
